@@ -13,7 +13,7 @@ Contents
 Strategic aim
 --------------
 
->Minning the spatial temporal characteristics of transportation data to predict the future transportation status. And updating the saptial temporal characteristics with newly observed data.
+>Mining the spatial temporal characteristics of transportation data to predict the future transportation status. And updating the spatial temporal characteristics with newly observed data.
 
 Tasks and challenges
 --------------
@@ -25,7 +25,7 @@ Tasks and challenges
 
 > Challenges
 - ### **Incomplete observations**
-> The data we acquired may not be complete due to detector mailfunction, data transmission error and so on. We need to mine the data characteristic and make predictions with insufficient information. There are basically two forms of data missing:
+> The data we acquired may not be complete due to detector malfunction, data transmission error and so on. We need to mine the data characteristics and make predictions with insufficient information. There are basically two forms of data missing:
 
   - **Random missing**: Each sensor lost their observations at completely random. (★★★)
   - **Non-random missing**: Each sensor lost their observations during several days. (★★★★)
@@ -33,7 +33,7 @@ Tasks and challenges
 Overview
 --------------
 
-   >With the development and application of intelligent transportation systems, large quantities of urban traffic data are collected on a continuous basis from various sources, such as loop detectors, cameras, and floating vehicles. These data sets capture the underlying states and dynamics of transportation networks and the whole system and become beneficial to many traffic operation and management applications, including routing, signal control, travel time prediction, and so on. The massive data we acquired gives us the opportunity to look into urban mobility and to mine patterns or characteristics of it. With finely acquired patterns and characteristics, we are able to precisely predict the future traffic status.
+   >With the development and application of intelligent transportation systems, large quantities of urban traffic data are collected on a continuous basis from various sources, such as loop detectors, cameras, and floating vehicles. These data sets capture the underlying states and dynamics of transportation networks and the whole system and become beneficial to many traffic operation and management applications, including routing, signal control, travel time prediction, and so on. The massive data we acquired gives us the opportunity to look into urban mobility and to mine patterns and characteristics of it. With finely acquired patterns and characteristics, we are able to precisely predict the future traffic status.
 
 Selected references
 --------------
