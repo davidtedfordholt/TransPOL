@@ -1,7 +1,7 @@
 ***TransPOL***
 --------------
 
->**Trans**portation data **O**n**L**ine **P**rediction (***TransPOL***).
+>**Trans**portation data **P**rediction **O**n**L**ine (***TransPOL***).
 
 Contents
 --------
